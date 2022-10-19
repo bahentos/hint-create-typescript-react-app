@@ -12,3 +12,11 @@
 ```
 yarn create react-app my-app --template typescript
 ```
+**`Ant Design`**
+```
+yarn add antd
+```
+Добавить импорт над строчкой src/App.css в файле App.tsx
+```
+import 'antd/dist/antd.css'
+```
